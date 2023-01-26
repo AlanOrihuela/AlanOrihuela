@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">Just one more full stack developer, actuary and mathematician from CDMX, with a special love for design, UX, economic, cooking and theater</h3>
 
-- 🏟️ I’m currently working on [stadibox](stadibox.com)
+- 🏟️ I’m currently working on [stadibox](https://www.stadibox.com)
 
 - 🌱 I’m currently learning **maths and a few internet curses stuff**
 
